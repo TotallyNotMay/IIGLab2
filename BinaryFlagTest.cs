@@ -5,7 +5,7 @@ using System;
 namespace IIGLab2
 {
     [TestClass]
-    public class UnitTest1
+    public class BinaryFlagTest
     {
 
         [TestMethod]
